@@ -1,6 +1,6 @@
 ###S.Malini
 ###24.10.2021
-### Tax Calculater  code using python
+### Tax Calculater code using python
 
 
 while True:
